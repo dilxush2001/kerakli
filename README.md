@@ -1,0 +1,2 @@
+# kerakli
+kerakli narsalar
